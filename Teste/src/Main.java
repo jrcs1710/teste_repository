@@ -11,7 +11,7 @@ public class Main extends JFrame{
 	}
 	
 	private void inicializarComponentes(){
-		btTeste = new JButton("Teste");
+		btTeste = new JButton("Testanto Lambda");
 		
 		//
 		getContentPane().add(btTeste);
